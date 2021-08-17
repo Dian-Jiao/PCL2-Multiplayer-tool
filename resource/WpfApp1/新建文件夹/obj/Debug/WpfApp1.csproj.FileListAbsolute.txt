@@ -1,0 +1,4 @@
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\新建文件夹\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\新建文件夹\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\新建文件夹\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Administrator\source\repos\WpfApp1\WpfApp1\新建文件夹\obj\Debug\WpfApp1_MarkupCompile.lref
